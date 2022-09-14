@@ -13,6 +13,7 @@
   - Laravel 🌀
 - Python 🐍
 - C# ©️
+- Java ☕
 
 ### Specifications
 - 206 bones 🦴
