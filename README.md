@@ -16,5 +16,4 @@
 - Java ☕
 
 ### How to hire me
-- Shoot me a message on Discord: **Loveless#2020** 💌
 - Write me an email on my contact email: **hello@loveless.codes** 📮
