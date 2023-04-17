@@ -7,8 +7,8 @@
 - English 🇺🇸
 - Danish 🇩🇰
 - JavaScript 💌
-  - NodeJS 👀
-  - Vue 💎
+  - Next ⚛️
+  - Nuxt 💎
 - PHP 🤖
   - Laravel 🌀
 - Python 🐍
