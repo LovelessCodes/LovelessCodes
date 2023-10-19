@@ -1,4 +1,3 @@
-![Loveless Codes](https://lvls.boo/r/fdupio.webp?compress=false)   
 😈 Your favorite antagonist                            
 🌐 https://loveless.codes/                 
 
@@ -15,3 +14,5 @@
 ## Extras
 *Why LovelessCodes?*   
 Even in the midst of my own loneliness, I found purpose in code.
+
+[![Codeium Profile](https://codeium.com/profile/mike/card.png)](https://codeium.com/profile/mike)
