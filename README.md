@@ -1,5 +1,7 @@
 # Howdy 👋, I'm Loveless 💔
-Currently looking for jobs that include one of the languages or frameworks listed below.   
+Currently looking for jobs that potentially includes one of the languages or frameworks listed below.   
+I'm not limited to those languages/frameworks, since I'm a fast learner and can adapt to what you need.
+
 If you think you could use me, write me an email: **hello@loveless.codes** 📮
 
 ![Views Badge](https://img.shields.io/endpoint?url=https://hits.dwyl.com/lovelesscodes/LovelessCodes.json&color=DD0B78&style=for-the-badge&logo=starship&logoColor=white&label=Profile%20Views)
