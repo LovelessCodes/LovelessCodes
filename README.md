@@ -7,8 +7,8 @@ If you think you could use me, write me an email: **hello@loveless.codes** 📮
 ![Views Badge](https://img.shields.io/endpoint?url=https://hits.dwyl.com/lovelesscodes/LovelessCodes.json&color=DD0B78&style=for-the-badge&logo=starship&logoColor=white&label=Profile%20Views)
 
 ## Languages
-![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   
 ![TypeScript Badge](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)   
+![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   
 ![Python Badge](https://img.shields.io/badge/python-366D9B?style=for-the-badge&logo=python&logoColor=white)   
 ![PHP Badge](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)   
 ![C# Badge](https://img.shields.io/badge/C%23-333?style=for-the-badge&logo=csharp)
