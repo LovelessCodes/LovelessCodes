@@ -15,7 +15,7 @@ If you think you could use me, write me an email: **hello@loveless.codes** 📮
 
 ## Frameworks
 ![React Native Badge](https://img.shields.io/badge/react_&_native-61DAFB?style=for-the-badge&logo=react&logoColor=black)   
-![TanStack Start Badge](https://img.shields.io/badge/tanstack_start-#ECE8D1?style=for-the-badge&logo=tanstack&logoColor=black)   
+![TanStack Start Badge](https://img.shields.io/badge/tanstack_start-ECE8D1?style=for-the-badge&logo=tanstack&logoColor=black)   
 ![NextJS Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)   
 ![Vue Badge](https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)   
 ![Vue Badge](https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)   
